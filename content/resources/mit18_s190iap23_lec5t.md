@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/18-s190-introduction-to-metric-spaces-january-iap-2023/mit18_s190iap23_lec5t.tex
+file_size: 13500
 file_type: text/x-tex
 image_metadata:
   caption: ''

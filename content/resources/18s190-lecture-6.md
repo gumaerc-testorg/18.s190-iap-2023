@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/18-s190-introduction-to-metric-spaces-january-iap-2023/18s190-lecture-6_360p_16_9.mp4
+file_size: 109489204
 file_type: video/mp4
 image_metadata:
   caption: ''
