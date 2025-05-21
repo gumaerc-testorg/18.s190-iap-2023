@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/18-s190-introduction-to-metric-spaces-january-iap-2023/mit18_s190iap23_pset3.pdf
+file: courses/introduction-to-metric-spaces-iap-23/mit18_s190iap23_pset3.pdf
 file_size: 294216
 file_type: application/pdf
 image_metadata:
