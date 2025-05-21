@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/18-s190-introduction-to-metric-spaces-january-iap-2023/18s190-lecture-1_360p_16_9.mp4
+file: courses/introduction-to-metric-spaces-iap-23/18s190-lecture-1_360p_16_9.mp4
 file_size: 130099917
 file_type: video/mp4
 image_metadata:
